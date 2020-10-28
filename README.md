@@ -27,12 +27,7 @@
 
 
 
-<br />
-<br />
-
----
----
----
+<br /> 
 
 # Programming Languages and Fraimworks:
 
@@ -52,7 +47,6 @@
 [![something](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![something](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black)]() 
 
----
 <br /> 
 
 
@@ -86,16 +80,10 @@
 [![something](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)]()
 [![something](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)]()
 [![something](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)]()
-
-
-
-
-<br />
 <br />
 
  
 
----
 ---
 ---
 
