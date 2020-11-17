@@ -29,7 +29,7 @@
 
 <br /> 
 
-# Programming Languages and Fraimworks:
+# Programming Languages and Frameworks:
 
 ## Front-end
 ### Languages
@@ -40,7 +40,7 @@
 [![Dribbble Profile](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)](https://dribbble.com/Robinzon)
  
 
-### Fraimworks
+### Frameworks
 [![something](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
 [![something](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)]()
 [![something](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)]()
@@ -58,7 +58,7 @@
 [![something](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)]() 
  
 
-### Fraimworks
+### Frameworks
 [![something](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)]()
 [![something](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)]()
 <br />
