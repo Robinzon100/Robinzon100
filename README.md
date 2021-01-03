@@ -31,45 +31,49 @@
 
 # Programming Languages and Frameworks:
 
-## Front-end
-### Languages
-[![Dribbble Profile](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://dribbble.com/Robinzon)
-[![Dribbble Profile](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://dribbble.com/Robinzon)
-[![Dribbble Profile](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://dribbble.com/Robinzon)
-[![Dribbble Profile](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://dribbble.com/Robinzon)
-[![Dribbble Profile](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)](https://dribbble.com/Robinzon)
+<details>
+  <summary>front-end</summary>
+
+  ### Languages
+  [![Dribbble Profile](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://dribbble.com/Robinzon)
+  [![Dribbble Profile](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://dribbble.com/Robinzon)
+  [![Dribbble Profile](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://dribbble.com/Robinzon)
+  [![Dribbble Profile](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://dribbble.com/Robinzon)
+  [![Dribbble Profile](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)](https://dribbble.com/Robinzon)
+
+
+  ### Frameworks
+  [![something](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
+  [![something](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)]()
+  [![something](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)]()
+  [![something](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)]()
+  [![something](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black)]() 
+
+</details>
+
+
+<details>
+  <summary>back-end</summary>
  
-
-### Frameworks
-[![something](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
-[![something](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)]()
-[![something](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)]()
-[![something](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![something](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black)]() 
-
-<br /> 
+  ### Languages
+  [![something](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)]()
+  [![something](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)]()
+  [![something](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)]()
+  [![something](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)]() 
 
 
-## Back-end
-### Languages
-[![something](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)]()
-[![something](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)]()
-[![something](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)]()
-[![something](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)]() 
- 
+  ### Frameworks
+  [![something](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)]()
+  [![something](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)]()
+  <br />
+  <br />
 
-### Frameworks
-[![something](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)]()
-[![something](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)]()
-<br />
-<br />
+  ### Databases
+  [![something](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)]()
+  [![something](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)]()
+  [![something](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)]() 
+</details>
 
-### Databases
-[![something](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![something](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![something](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)]() 
-
----
 <br /> 
 
 ## Other
@@ -84,8 +88,10 @@
 
  
 
+
 ---
----
+
+
 
 
 # Design Tools:
