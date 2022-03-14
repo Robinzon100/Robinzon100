@@ -5,7 +5,7 @@
  
  
 [![Github Profile](https://img.shields.io/badge/github-%F0%9F%92%BB-black?style=for-the-badge&logo=github&color=black&link=https://github.com/Robinzon100)](https://github.com/Robinzon100)
-[![Dribbble Profile](https://img.shields.io/badge/dribbble-%F0%9F%8E%B4-red?style=for-the-badge&logo=dribbble&color=ea4c89&link=https://dribbble.com/Robinzon)](https://dribbble.com/Robinzon)
+[![Dribbble Profile](https://img.shields.io/badge/dribbble-%F0%9F%8E%B4-red?style=for-the-badge&logo=dribbble&color=ea4c89&link=https://dribbble.com/Robinzon)](https://dribbble.com/oxeni)
 
 
 ## I'm a Fullstack Developer, UI/UX and Brand Designer!!
