@@ -15,7 +15,7 @@
 - 🎴 curently working on personal project
 - 🌱 love to learn new things 
 - ⚪ perfectionist
-- ⚡ love designing and building usefull junk
+- ⚡ love designing and building useful junk
 
 <br />
 
