@@ -18,19 +18,16 @@
 - ⚡ Love Designing and Building Useful "Junk"
 
 <br />
-
-
 <br /> 
 
 ## Languages
 Go, Elixir, JavaScript, Python, R, Rust HTML, CSS.
-
-
+<br /> 
+<br /> 
 ## Frameworks and Libraries
 React, Next.js (v12-v15), React-Native, Expo, Svelte, Three.js, GSAP, GoFiber, GoChi, Phoenix, Ent ORM, Knex, DrizzleORM, Express.js, Typescript, SASS/SCSS, Tailwind, Zustand, React-Query (Tanstack-Query), Zod, JWT.
-
-
-
+<br /> 
+<br /> 
 ## Other Tools and Databases
 Linux, Docker, Kubernetes, NGINX, AWS, VPS, Git, Github, PostgreSQL, MySQL, SQLite, MongoDB, MongoDB Atlas, mongoose, Supabase, Neon.tech, Firebase.
 
